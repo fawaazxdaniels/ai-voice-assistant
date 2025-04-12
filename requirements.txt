@@ -1,0 +1,7 @@
+openai
+pydantic
+pydantic_core
+python-dotenv
+pyttsx3
+PyAudio
+SpeechRecognition
